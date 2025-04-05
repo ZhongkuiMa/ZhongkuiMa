@@ -26,9 +26,10 @@ I have had some projects about several published papers.
 
 Lately, I’ve been working on super exciting tools that I can't wait to share with you 😊:
 
-- **torchonnx**: This tool lets you **convert an ONNX model (.onnx file) to a PyTorch model (.pth for parameters, .py for structure)** 🔄. While `torch.onnx` lets you go from PyTorch to ONNX, **torchonnx** lets you do the reverse! It’s simple, lightweight, and powerful—just what you need for seamless model conversion! 🔥 This project is developing. 🫵
-- **slimonnx**: This tool helps you **optimize and simplify your ONNX models** by eliminating redundant operations and tackling version issues! 🚀 ONNX files can get messy, but **slimonnx** will give you a clean, streamlined version that’s lean and mean—ready for action! 💪 This project is developing. 🫵
-- **torchvnnlib**: This tool is to **convert VNN-LIB (.vnnlib files) to PyTorch tensors (.pth files)** to take the advantage of the PyTorch ecosystem! Accelerate loading the input and output constraints of neural network verification! 🚀 
+- **[slimonnx](https://github.com/ZhongkuiMa/slimonnx)**: This tool helps you **optimize and simplify your ONNX models** by eliminating redundant operations and tackling version issues! 🚀 ONNX files can get messy, but **slimonnx** will give you a clean, streamlined version that’s lean and mean—ready for action! 💪 This project is developing. 🫵
+- **[torchonnx](https://github.com/ZhongkuiMa/torchonnx)**: This tool lets you **convert an ONNX model** (.onnx file) to a **PyTorch model** (.pth for parameters, .py for structure) 🔄. While `torch.onnx` lets you go from PyTorch to ONNX, **torchonnx** lets you do the reverse! It’s simple, lightweight, and powerful—just what you need for seamless model conversion! 🔥 This project is developing. 🫵
+- **[torchvnnlib](https://github.com/ZhongkuiMa/torchvnnlib)**: This tool is to **convert VNN-LIB (.vnnlib files) to PyTorch tensors (.pth files)** to take the advantage of the PyTorch ecosystem! Accelerate loading the input and output constraints of neural network verification! 🚀
+- **[propdag](https://github.com/ZhongkuiMa/propdag)**: This tool aims to provide a general **bound propagation framework** for **neural network verification**. It supports any **directed acyclic graph (DAG)** structure of computational graphs for neural networks. It covers two typical pattens (**feedforward** and **backward**) of bound propagation for neural networks verification. It enables you researchers to easily implement your bound propagation algorithms without anxiety about handling complacated computational graphs of neural networks. 🚀
 
 
 
