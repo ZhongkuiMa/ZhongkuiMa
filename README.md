@@ -1,36 +1,34 @@
 # Hey there! I'm Zhongkui Ma (马中奎)~ 👋
 
+I’m a **PhD student** at the **University of Queensland** 🎓, deeply immersed in the fascinating world of **neural networks** 🤖—a constantly evolving field that pushes me to think outside the box every single day!
 
+My research focuses on **neural network verification (NNV)** 🧠💪. I’m passionate about ensuring these powerful models are robust, reliable, and dependable, regardless of the conditions or inputs they encounter.
 
-I’m a **PhD student** at the **University of Queensland** 🎓, and I’m deeply immersed in the thrilling world of **neural networks** 🤖—a world that’s constantly evolving and challenging me to think outside the box every single day!
+Want to know more about me? Visit my website: [zhongkuima.github.io](https://zhongkuima.github.io/)
 
+---
 
+## Published Projects 📚
 
-My research is all about **neural network verification (NNV)** 🧠💪. I’m passionate about ensuring that these powerful models are rock-solid and reliable, no matter what conditions or inputs they face.
+I’ve worked on several exciting projects related to neural networks and model security, some of which have been published in top-tier conferences:
 
+- **[AIM](https://github.com/UQ-Trust-Lab/AIM)** - “[Model Modulation with Logits Redistribution](https://openreview.net/forum?id=lOSomJvrc5#discussion)” (WWW’25)
+- **[GRAB](https://github.com/UQ-Trust-Lab/GRAB)** - “[Uncovering Gradient Inversion Risks in Practical Language Model Training](https://dl.acm.org/doi/abs/10.1145/3658644.3690292)” (CCS’24)
+- **[CoreLocker](https://github.com/CoreLocker/CoreLocker)** - “[CORELOCKER: Neuron-level Usage Control](https://www.computer.org/csdl/proceedings-article/sp/2024/313000a222/1WPcYMh3F1C)” (S&P’24)
+- **[WraLU](https://github.com/UQ-Trust-Lab/WraLU)** - “[ReLU Hull Approximation](https://dl.acm.org/doi/10.1145/3632917)” (POPL’24)
+- **[PdD](https://github.com/UQ-Trust-Lab/PdD)** - “[Formalizing Robustness Against Character-Level Perturbations for Neural Network Language Models](https://link.springer.com/chapter/10.1007/978-981-99-7584-6_7)” (ICFEM’23)
 
+---
 
-Want to know more about me? Check out my website: [zhongkuima.github.io](https://zhongkuima.github.io/)
+## Latest Projects 🔧
 
+I’m currently working on some exciting tools that I’m thrilled to share with you:
 
+- **[slimonnx](https://github.com/ZhongkuiMa/slimonnx)**: A tool to **optimize and simplify your ONNX models** by removing redundant operations and resolving version issues. It makes ONNX files cleaner, more efficient, and ready for action! 🚀 (Currently in development 🛠️)
+- **[torchonnx](https://github.com/ZhongkuiMa/torchonnx)**: A tool for **converting ONNX models** to **PyTorch models** (.pth for parameters, .py for structure). It’s simple, lightweight, and designed for seamless model conversion 🔄. (Currently in development 🛠️)
+- **[torchvnnlib](https://github.com/ZhongkuiMa/torchvnnlib)**: A tool to **convert VNN-LIB files** (.vnnlib) to **PyTorch tensors** (.pth files) for efficient neural network verification. Take full advantage of the PyTorch ecosystem! 🚀
+- **[propdag](https://github.com/ZhongkuiMa/propdag)**: A **bound propagation framework** for **neural network verification**. It supports any **DAG (Directed Acyclic Graph)** structure, covering both **feedforward** and **backward** propagation patterns for verification. This tool allows researchers to focus on their algorithms without worrying about complex computation graphs! 💪
 
-I have had some projects about several published papers.
-
-- [AIM](https://github.com/UQ-Trust-Lab/AIM) - “[Model Modulation with Logits Redistribution](https://openreview.net/forum?id=lOSomJvrc5#discussion)” (WWW’25)
-- [GRAB](https://github.com/UQ-Trust-Lab/GRAB) - “[Uncovering Gradient Inversion Risks in Practical Language Model Training](https://dl.acm.org/doi/abs/10.1145/3658644.3690292)” (CCS’24)
-- [CoreLocker](https://github.com/CoreLocker/CoreLocker) - “[CORELOCKER: Neuron-level Usage Control](https://www.computer.org/csdl/proceedings-article/sp/2024/313000a222/1WPcYMh3F1C)” (S&P’24)
-- [WraLU](https://github.com/UQ-Trust-Lab/WraLU) - “[ReLU Hull Approximation](https://dl.acm.org/doi/10.1145/3632917)” (POPL’24)
-- [PdD](https://github.com/UQ-Trust-Lab/PdD) - “[Formalizing Robustness Against Character-Level Perturbations for Neural Network Language Models](https://link.springer.com/chapter/10.1007/978-981-99-7584-6_7)” (ICFEM’23)
-
-
-
-Lately, I’ve been working on super exciting tools that I can't wait to share with you 😊:
-
-- **[slimonnx](https://github.com/ZhongkuiMa/slimonnx)**: This tool helps you **optimize and simplify your ONNX models** by eliminating redundant operations and tackling version issues! 🚀 ONNX files can get messy, but **slimonnx** will give you a clean, streamlined version that’s lean and mean—ready for action! 💪 This project is developing. 🫵
-- **[torchonnx](https://github.com/ZhongkuiMa/torchonnx)**: This tool lets you **convert an ONNX model** (.onnx file) to a **PyTorch model** (.pth for parameters, .py for structure) 🔄. While `torch.onnx` lets you go from PyTorch to ONNX, **torchonnx** lets you do the reverse! It’s simple, lightweight, and powerful—just what you need for seamless model conversion! 🔥 This project is developing. 🫵
-- **[torchvnnlib](https://github.com/ZhongkuiMa/torchvnnlib)**: This tool is to **convert VNN-LIB (.vnnlib files) to PyTorch tensors (.pth files)** to take the advantage of the PyTorch ecosystem! Accelerate loading the input and output constraints of neural network verification! 🚀
-- **[propdag](https://github.com/ZhongkuiMa/propdag)**: This tool aims to provide a general **bound propagation framework** for **neural network verification**. It supports any **directed acyclic graph (DAG)** structure of computational graphs for neural networks. It covers two typical pattens (**feedforward** and **backward**) of bound propagation for neural networks verification. It enables you researchers to easily implement your bound propagation algorithms without anxiety about handling complacated computational graphs of neural networks. 🚀
-
-
+---
 
 Thanks so much for visiting my GitHub! Let’s innovate, collaborate, and make AI even better together! ⭐
