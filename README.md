@@ -18,6 +18,12 @@ I’ve worked on several exciting projects related to neural networks and model 
 - **[WraLU](https://github.com/UQ-Trust-Lab/WraLU)** - “[ReLU Hull Approximation](https://dl.acm.org/doi/10.1145/3632917)” (POPL’24)
 - **[PdD](https://github.com/UQ-Trust-Lab/PdD)** - “[Formalizing Robustness Against Character-Level Perturbations for Neural Network Language Models](https://link.springer.com/chapter/10.1007/978-981-99-7584-6_7)” (ICFEM’23)
 
+Thanks and to be honored with my friends and collaborators, including 
+[Xinguo Feng](https://github.com/shanefeng123), 
+[Zihan Wang](https://github.com/Anzhu-W)
+.
+You can find more works by their scholar profiles.
+
 ---
 
 ## Latest GitHub Repos 🔧
