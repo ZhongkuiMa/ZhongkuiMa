@@ -8,7 +8,7 @@ Want to know more about me? Visit my website: [zhongkuima.github.io](https://zho
 
 ---
 
-## Published Projects 📚
+## Published Academic Work 📚
 
 I’ve worked on several exciting projects related to neural networks and model security, some of which have been published in top-tier conferences:
 
@@ -20,14 +20,21 @@ I’ve worked on several exciting projects related to neural networks and model 
 
 ---
 
-## Latest Projects 🔧
+## Latest GitHub Repos 🔧
 
 I’m currently working on some exciting tools that I’m thrilled to share with you:
 
-- **[slimonnx](https://github.com/ZhongkuiMa/slimonnx)**: A tool to **optimize and simplify your ONNX models** by removing redundant operations and resolving version issues. It makes ONNX files cleaner, more efficient, and ready for action! 🚀 (Currently in development 🛠️)
-- **[torchonnx](https://github.com/ZhongkuiMa/torchonnx)**: A tool for **converting ONNX models** to **PyTorch models** (.pth for parameters, .py for structure). It’s simple, lightweight, and designed for seamless model conversion 🔄. (Currently in development 🛠️)
-- **[torchvnnlib](https://github.com/ZhongkuiMa/torchvnnlib)**: A tool to **convert VNN-LIB files** (.vnnlib) to **PyTorch tensors** (.pth files) for efficient neural network verification. Take full advantage of the PyTorch ecosystem! 🚀
-- **[propdag](https://github.com/ZhongkuiMa/propdag)**: A **bound propagation framework** for **neural network verification**. It supports any **DAG (Directed Acyclic Graph)** structure, covering both **feedforward** and **backward** propagation patterns for verification. This tool allows researchers to focus on their algorithms without worrying about complex computation graphs! 💪
+- [shapeonnx](https://github.com/ZhongkuiMa/shapeonnx): A tool to **infer the shape of an ONNX model** when the official tool being down.
+- [slimonnx](https://github.com/ZhongkuiMa/slimonnx): A tool to **optimize and simplify your ONNX models** by removing redundant operations and resolving version issues. It makes ONNX files cleaner, more efficient, and ready for action! 🚀 (Currently in development 🛠️)
+- [torchonnx](https://github.com/ZhongkuiMa/torchonnx): A tool for **converting ONNX models** to **PyTorch models** (.pth for parameters, .py for structure). It’s simple, lightweight, and designed for seamless model conversion 🔄. (Currently in development 🛠️)
+- [torchvnnlib](https://github.com/ZhongkuiMa/torchvnnlib): A tool to **convert VNN-LIB files** (.vnnlib) to **PyTorch tensors** (.pth files) for efficient neural network verification. Take full advantage of the PyTorch ecosystem! 🚀
+- [propdag](https://github.com/ZhongkuiMa/propdag): A **bound propagation framework** for **neural network verification**. It supports any **DAG (Directed Acyclic Graph)** structure, covering both **feedforward** and **backward** propagation patterns for verification. This tool allows researchers to focus on their algorithms without worrying about complex computation graphs! 💪
+
+---
+
+## Contributing
+
+I’m always open to collaboration and contributions! If you’re interested in working together or have ideas for our or new projects, feel free to reach out. I love brainstorming and bouncing ideas around! 💡
 
 ---
 
