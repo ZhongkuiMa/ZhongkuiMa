@@ -30,9 +30,9 @@ You can find more works by their scholar profiles.
 
 I’m currently working on some exciting tools that I’m thrilled to share with you:
 
-- [shapeonnx](https://github.com/ZhongkuiMa/shapeonnx): A tool to **infer the shape of an ONNX model** when the official tool being down.
-- [slimonnx](https://github.com/ZhongkuiMa/slimonnx): A tool to **optimize and simplify your ONNX models** by removing redundant operations and resolving version issues. It makes ONNX files cleaner, more efficient, and ready for action! 🚀 (Currently in development 🛠️)
-- [torchonnx](https://github.com/ZhongkuiMa/torchonnx): A tool for **converting ONNX models** to **PyTorch models** (.pth for parameters, .py for structure). It’s simple, lightweight, and designed for seamless model conversion 🔄. (Currently in development 🛠️)
+- [shapeonnx](https://github.com/ZhongkuiMa/shapeonnx): A tool to **infer the shape of an ONNX model** when the official tool being down. It’s a simple yet powerful tool that helps you understand the dimensions of your model’s inputs and outputs! 📏
+- [slimonnx](https://github.com/ZhongkuiMa/slimonnx): A tool to **optimize and simplify your ONNX models** by removing redundant operations and resolving version issues. It makes ONNX files cleaner, more efficient, and ready for action! 🚀
+- [torchonnx](https://github.com/ZhongkuiMa/torchonnx): A tool for **converting ONNX models** to **PyTorch models** (.pth for parameters, .py for structure). It’s simple, lightweight, and designed for seamless model conversion 🔄.
 - [torchvnnlib](https://github.com/ZhongkuiMa/torchvnnlib): A tool to **convert VNN-LIB files** (.vnnlib) to **PyTorch tensors** (.pth files) for efficient neural network verification. Take full advantage of the PyTorch ecosystem! 🚀
 - [propdag](https://github.com/ZhongkuiMa/propdag): A **bound propagation framework** for **neural network verification**. It supports any **DAG (Directed Acyclic Graph)** structure, covering both **feedforward** and **backward** propagation patterns for verification. This tool allows researchers to focus on their algorithms without worrying about complex computation graphs! 💪
 
