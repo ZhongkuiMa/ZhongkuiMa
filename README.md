@@ -14,11 +14,12 @@ Want to know more about me? Visit my website: [zhongkuima.github.io](https://zho
 
 I’ve worked on several exciting projects related to neural networks and model security, some of which have been published in top-tier conferences:
 
-- **[AIM](https://github.com/UQ-Trust-Lab/AIM)** - “[Model Modulation with Logits Redistribution](https://openreview.net/forum?id=lOSomJvrc5#discussion)” (WWW’25)
-- **[GRAB](https://github.com/UQ-Trust-Lab/GRAB)** - “[Uncovering Gradient Inversion Risks in Practical Language Model Training](https://dl.acm.org/doi/abs/10.1145/3658644.3690292)” (CCS’24)
-- **[CoreLocker](https://github.com/CoreLocker/CoreLocker)** - “[CORELOCKER: Neuron-level Usage Control](https://www.computer.org/csdl/proceedings-article/sp/2024/313000a222/1WPcYMh3F1C)” (S&P’24)
-- **[WraLU](https://github.com/UQ-Trust-Lab/WraLU)** - “[ReLU Hull Approximation](https://dl.acm.org/doi/10.1145/3632917)” (POPL’24)
-- **[PdD](https://github.com/UQ-Trust-Lab/PdD)** - “[Formalizing Robustness Against Character-Level Perturbations for Neural Network Language Models](https://link.springer.com/chapter/10.1007/978-981-99-7584-6_7)” (ICFEM’23)
+- **[WraAct](https://github.com/Trusted-System-Lab/WraAct)** - "[Convex Hull Approximation for Activation Functions]()" (OOPSLA'25)
+- **[AIM](https://github.com/Trusted-System-Lab/AIM)** - "[Model Modulation with Logits Redistribution](https://openreview.net/forum?id=lOSomJvrc5#discussion)" (WWW’25)
+- **[GRAB](https://github.com/Trusted-System-Lab/GRAB)** - "[Uncovering Gradient Inversion Risks in Practical Language Model Training](https://dl.acm.org/doi/abs/10.1145/3658644.3690292)" (CCS’24)
+- **[CoreLocker](https://github.com/CoreLocker/CoreLocker)** - "[CORELOCKER: Neuron-level Usage Control](https://www.computer.org/csdl/proceedings-article/sp/2024/313000a222/1WPcYMh3F1C)" (S&P’24)
+- **[WraLU](https://github.com/Trusted-System-Lab/WraLU)** - "[ReLU Hull Approximation](https://dl.acm.org/doi/10.1145/3632917)" (POPL’24)
+- **[PdD](https://github.com/Trusted-System-Lab/PdD)** - "[Formalizing Robustness Against Character-Level Perturbations for Neural Network Language Models](https://link.springer.com/chapter/10.1007/978-981-99-7584-6_7)" (ICFEM’23)
 
 Thanks and to be honored with my friends and collaborators, including 
 [Xinguo Feng](https://github.com/shanefeng123), 
