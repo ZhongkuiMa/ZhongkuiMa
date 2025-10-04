@@ -33,6 +33,7 @@ You can find more works by their scholar profiles.
 
 I’m currently working on some exciting tools that I’m thrilled to share with you:
 
+- [wraact](https://github.com/ZhongkuiMa/wraact): A tool to **approximate activation function hull** with **convex polytopes**. It supports various activation functions like ReLU, Sigmoid, Tanh, and GeLU, and can be easily integrated into existing neural network verification frameworks! 🛠 This is a regularly maintained and updated repo for the core algorithm in [WraLU](https://github.com/Trusted-System-Lab/WraLU) and [WraAct](https://github.com/Trusted-System-Lab/WraAct).
 - [shapeonnx](https://github.com/ZhongkuiMa/shapeonnx): A tool to **infer the shape of an ONNX model** when the official tool being down. It’s a simple yet powerful tool that helps you understand the dimensions of your model’s inputs and outputs! 📏
 - [slimonnx](https://github.com/ZhongkuiMa/slimonnx): A tool to **optimize and simplify your ONNX models** by removing redundant operations and resolving version issues. It makes ONNX files cleaner, more efficient, and ready for action! 🚀
 - [torchonnx](https://github.com/ZhongkuiMa/torchonnx): A tool for **converting ONNX models** to **PyTorch models** (.pth for parameters, .py for structure). It’s simple, lightweight, and designed for seamless model conversion 🔄.
