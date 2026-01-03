@@ -12,33 +12,27 @@ Want to know more about me? Visit my website: [zhongkuima.github.io](https://zho
 
 ## 📋 Table of Contents
 
-- [🎉 Latest Release: v2026.1.0](#-latest-release-v202610-january-2026)
-- [🛠️ Latest GitHub Repos](#️-latest-github-repos)
+- [🎉 Latest Projects & Release: v2026.1.0](#-latest-projects--release-v202610-january-2026)
 - [📚 Published Academic Work](#-published-academic-work)
 - [⭐ Support This Work](#-support-this-work)
 - [📫 Connect With Me](#-connect-with-me)
 
 ---
 
-## 🎉 Latest Release: v2026.1.0 (January 2026)
+## 🎉 Latest Projects & Release: v2026.1.0 (January 2026)
 
 I'm thrilled to announce the **stable release of v2026.1.0** for my neural network verification toolkit! All 6 core packages are now production-ready and actively maintained.
 
-| Package | Description | License | CI/CD |
-|---------|-------------|---------|-------|
-| [propdag](https://github.com/ZhongkuiMa/propdag) | Bound propagation framework | [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT) | [![CI](https://img.shields.io/github/actions/workflow/status/ZhongkuiMa/propdag/tests.yml?label=tests&logo=github)](https://github.com/ZhongkuiMa/propdag/actions) |
-| [wraact](https://github.com/ZhongkuiMa/wraact) | Activation hull approximation | [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT) | [![CI](https://img.shields.io/github/actions/workflow/status/ZhongkuiMa/wraact/actions/tests.yml?label=tests&logo=github)](https://github.com/ZhongkuiMa/wraact/actions) |
-| [shapeonnx](https://github.com/ZhongkuiMa/shapeonnx) | ONNX shape inference | [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT) | [![CI](https://img.shields.io/github/actions/workflow/status/ZhongkuiMa/shapeonnx/tests.yml?label=tests&logo=github)](https://github.com/ZhongkuiMa/shapeonnx/actions) |
-| [slimonnx](https://github.com/ZhongkuiMa/slimonnx) | ONNX optimization | [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT) | [![CI](https://img.shields.io/github/actions/workflow/status/ZhongkuiMa/slimonnx/tests.yml?label=tests&logo=github)](https://github.com/ZhongkuiMa/slimonnx/actions) |
-| [torchonnx](https://github.com/ZhongkuiMa/torchonnx) | ONNX to PyTorch conversion | [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT) | [![CI](https://img.shields.io/github/actions/workflow/status/ZhongkuiMa/torchonnx/tests.yml?label=tests&logo=github)](https://github.com/ZhongkuiMa/torchonnx/actions) |
-| [torchvnnlib](https://github.com/ZhongkuiMa/torchvnnlib) | VNN-LIB to PyTorch | [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT) | [![CI](https://img.shields.io/github/actions/workflow/status/ZhongkuiMa/torchvnnlib/tests.yml?label=tests&logo=github)](https://github.com/ZhongkuiMa/torchvnnlib/actions) |
+| Package | Description | Version | Stars | Size | Last Updated | Status |
+|---------|-------------|---------|-------|------|--------------|--------|
+| [propdag](https://github.com/ZhongkuiMa/propdag) | Bound propagation framework | v2026.1.0 | [![Stars](https://img.shields.io/github/stars/ZhongkuiMa/propdag?style=social)](https://github.com/ZhongkuiMa/propdag) | [![Size](https://img.shields.io/github/repo-size/ZhongkuiMa/propdag)](https://github.com/ZhongkuiMa/propdag) | [![Updated](https://img.shields.io/github/last-commit/ZhongkuiMa/propdag?label=)](https://github.com/ZhongkuiMa/propdag/commits) | [![Actions](https://github.com/ZhongkuiMa/propdag/actions/workflows/tests.yml/badge.svg)](https://github.com/ZhongkuiMa/propdag/actions) |
+| [wraact](https://github.com/ZhongkuiMa/wraact) | Activation hull approximation | v2026.1.0 | [![Stars](https://img.shields.io/github/stars/ZhongkuiMa/wraact?style=social)](https://github.com/ZhongkuiMa/wraact) | [![Size](https://img.shields.io/github/repo-size/ZhongkuiMa/wraact)](https://github.com/ZhongkuiMa/wraact) | [![Updated](https://img.shields.io/github/last-commit/ZhongkuiMa/wraact?label=)](https://github.com/ZhongkuiMa/wraact/commits) | [![Actions](https://github.com/ZhongkuiMa/wraact/actions/workflows/tests.yml/badge.svg)](https://github.com/ZhongkuiMa/wraact/actions) |
+| [shapeonnx](https://github.com/ZhongkuiMa/shapeonnx) | ONNX shape inference | v2026.1.0 | [![Stars](https://img.shields.io/github/stars/ZhongkuiMa/shapeonnx?style=social)](https://github.com/ZhongkuiMa/shapeonnx) | [![Size](https://img.shields.io/github/repo-size/ZhongkuiMa/shapeonnx)](https://github.com/ZhongkuiMa/shapeonnx) | [![Updated](https://img.shields.io/github/last-commit/ZhongkuiMa/shapeonnx?label=)](https://github.com/ZhongkuiMa/shapeonnx/commits) | [![Actions](https://github.com/ZhongkuiMa/shapeonnx/actions/workflows/tests.yml/badge.svg)](https://github.com/ZhongkuiMa/shapeonnx/actions) |
+| [slimonnx](https://github.com/ZhongkuiMa/slimonnx) | ONNX optimization | v2026.1.0 | [![Stars](https://img.shields.io/github/stars/ZhongkuiMa/slimonnx?style=social)](https://github.com/ZhongkuiMa/slimonnx) | [![Size](https://img.shields.io/github/repo-size/ZhongkuiMa/slimonnx)](https://github.com/ZhongkuiMa/slimonnx) | [![Updated](https://img.shields.io/github/last-commit/ZhongkuiMa/slimonnx?label=)](https://github.com/ZhongkuiMa/slimonnx/commits) | [![Actions](https://github.com/ZhongkuiMa/slimonnx/actions/workflows/tests.yml/badge.svg)](https://github.com/ZhongkuiMa/slimonnx/actions) |
+| [torchonnx](https://github.com/ZhongkuiMa/torchonnx) | ONNX to PyTorch conversion | v2026.1.0 | [![Stars](https://img.shields.io/github/stars/ZhongkuiMa/torchonnx?style=social)](https://github.com/ZhongkuiMa/torchonnx) | [![Size](https://img.shields.io/github/repo-size/ZhongkuiMa/torchonnx)](https://github.com/ZhongkuiMa/torchonnx) | [![Updated](https://img.shields.io/github/last-commit/ZhongkuiMa/torchonnx?label=)](https://github.com/ZhongkuiMa/torchonnx/commits) | [![Actions](https://github.com/ZhongkuiMa/torchonnx/actions/workflows/tests.yml/badge.svg)](https://github.com/ZhongkuiMa/torchonnx/actions) |
+| [torchvnnlib](https://github.com/ZhongkuiMa/torchvnnlib) | VNN-LIB to PyTorch | v2026.1.0 | [![Stars](https://img.shields.io/github/stars/ZhongkuiMa/torchvnnlib?style=social)](https://github.com/ZhongkuiMa/torchvnnlib) | [![Size](https://img.shields.io/github/repo-size/ZhongkuiMa/torchvnnlib)](https://github.com/ZhongkuiMa/torchvnnlib) | [![Updated](https://img.shields.io/github/last-commit/ZhongkuiMa/torchvnnlib?label=)](https://github.com/ZhongkuiMa/torchvnnlib/commits) | [![Actions](https://github.com/ZhongkuiMa/torchvnnlib/actions/workflows/tests.yml/badge.svg)](https://github.com/ZhongkuiMa/torchvnnlib/actions) |
 
----
-
-## 🛠️ Latest GitHub Repos
-
-I'm currently working on some exciting tools that I'm thrilled to share with you:
-
+**Key Features Across All Tools:**
 - [**wraact**](https://github.com/ZhongkuiMa/wraact): Approximate activation function hull with convex polytopes. Supports ReLU, Sigmoid, Tanh, GeLU, and more. 🛠
 - [**shapeonnx**](https://github.com/ZhongkuiMa/shapeonnx): Infer the shape of ONNX models. Simple yet powerful tool for understanding model dimensions. 📏
 - [**slimonnx**](https://github.com/ZhongkuiMa/slimonnx): Optimize and simplify ONNX models by removing redundant operations and resolving version issues. 🚀
