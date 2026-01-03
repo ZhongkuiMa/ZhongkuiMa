@@ -21,6 +21,14 @@ Want to know more about me? Visit my website: [zhongkuima.github.io](https://zho
 
 ## 🎉 Latest Releases
 
+**Key Features Across All Tools:**
+- [**wraact**](https://github.com/ZhongkuiMa/wraact): Approximate activation function hull with convex polytopes. Supports ReLU, Sigmoid, Tanh, GeLU, and more. 🛠
+- [**shapeonnx**](https://github.com/ZhongkuiMa/shapeonnx): Infer the shape of ONNX models. Simple yet powerful tool for understanding model dimensions. 📏
+- [**slimonnx**](https://github.com/ZhongkuiMa/slimonnx): Optimize and simplify ONNX models by removing redundant operations and resolving version issues. 🚀
+- [**torchonnx**](https://github.com/ZhongkuiMa/torchonnx): Convert ONNX models to PyTorch format (.pth for parameters, .py for structure). 🔄
+- [**torchvnnlib**](https://github.com/ZhongkuiMa/torchvnnlib): Convert VNN-LIB verification benchmarks (.vnnlib) to PyTorch tensors (.pth files). 🚀
+- [**propdag**](https://github.com/ZhongkuiMa/propdag): Bound propagation framework for neural network verification supporting DAG structures and both forward/backward propagation. 💪
+
 I'm thrilled to announce the **stable release** for my neural network verification toolkit! All 6 core packages are now production-ready and actively maintained.
 
 | Package | Description | Version | Stars | Size | Last Updated | Status |
@@ -31,14 +39,6 @@ I'm thrilled to announce the **stable release** for my neural network verificati
 | [slimonnx](https://github.com/ZhongkuiMa/slimonnx) | ONNX optimization | v2026.1.0 | [![Stars](https://img.shields.io/github/stars/ZhongkuiMa/slimonnx?style=social)](https://github.com/ZhongkuiMa/slimonnx) | [![Size](https://img.shields.io/github/repo-size/ZhongkuiMa/slimonnx)](https://github.com/ZhongkuiMa/slimonnx) | [![Updated](https://img.shields.io/github/last-commit/ZhongkuiMa/slimonnx?label=)](https://github.com/ZhongkuiMa/slimonnx/commits) | [![Actions](https://github.com/ZhongkuiMa/slimonnx/actions/workflows/unit-tests.yml/badge.svg)](https://github.com/ZhongkuiMa/slimonnx/actions) |
 | [torchonnx](https://github.com/ZhongkuiMa/torchonnx) | ONNX to PyTorch conversion | v2026.1.0 | [![Stars](https://img.shields.io/github/stars/ZhongkuiMa/torchonnx?style=social)](https://github.com/ZhongkuiMa/torchonnx) | [![Size](https://img.shields.io/github/repo-size/ZhongkuiMa/torchonnx)](https://github.com/ZhongkuiMa/torchonnx) | [![Updated](https://img.shields.io/github/last-commit/ZhongkuiMa/torchonnx?label=)](https://github.com/ZhongkuiMa/torchonnx/commits) | [![Actions](https://github.com/ZhongkuiMa/torchonnx/actions/workflows/unit-tests.yml/badge.svg)](https://github.com/ZhongkuiMa/torchonnx/actions) |
 | [torchvnnlib](https://github.com/ZhongkuiMa/torchvnnlib) | VNN-LIB to PyTorch | v2026.1.0 | [![Stars](https://img.shields.io/github/stars/ZhongkuiMa/torchvnnlib?style=social)](https://github.com/ZhongkuiMa/torchvnnlib) | [![Size](https://img.shields.io/github/repo-size/ZhongkuiMa/torchvnnlib)](https://github.com/ZhongkuiMa/torchvnnlib) | [![Updated](https://img.shields.io/github/last-commit/ZhongkuiMa/torchvnnlib?label=)](https://github.com/ZhongkuiMa/torchvnnlib/commits) | [![Actions](https://github.com/ZhongkuiMa/torchvnnlib/actions/workflows/unit-tests.yml/badge.svg)](https://github.com/ZhongkuiMa/torchvnnlib/actions) |
-
-**Key Features Across All Tools:**
-- [**wraact**](https://github.com/ZhongkuiMa/wraact): Approximate activation function hull with convex polytopes. Supports ReLU, Sigmoid, Tanh, GeLU, and more. 🛠
-- [**shapeonnx**](https://github.com/ZhongkuiMa/shapeonnx): Infer the shape of ONNX models. Simple yet powerful tool for understanding model dimensions. 📏
-- [**slimonnx**](https://github.com/ZhongkuiMa/slimonnx): Optimize and simplify ONNX models by removing redundant operations and resolving version issues. 🚀
-- [**torchonnx**](https://github.com/ZhongkuiMa/torchonnx): Convert ONNX models to PyTorch format (.pth for parameters, .py for structure). 🔄
-- [**torchvnnlib**](https://github.com/ZhongkuiMa/torchvnnlib): Convert VNN-LIB verification benchmarks (.vnnlib) to PyTorch tensors (.pth files). 🚀
-- [**propdag**](https://github.com/ZhongkuiMa/propdag): Bound propagation framework for neural network verification supporting DAG structures and both forward/backward propagation. 💪
 
 ---
 
