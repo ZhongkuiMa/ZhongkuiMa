@@ -10,15 +10,6 @@ Want to know more about me? Visit my website: [zhongkuima.github.io](https://zho
 
 ---
 
-## 📋 Table of Contents
-
-- [🎉 Latest Projects & Release: v2026.1.0](#-latest-projects--release-v202610-january-2026)
-- [📚 Published Academic Work](#-published-academic-work)
-- [⭐ Support This Work](#-support-this-work)
-- [📫 Connect With Me](#-connect-with-me)
-
----
-
 ## 🎉 Latest Releases
 
 **Key Features Across All Tools:**
