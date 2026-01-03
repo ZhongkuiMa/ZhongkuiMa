@@ -1,8 +1,8 @@
 # Hey there! I'm Zhongkui Ma (马中奎)~ 👋
 
-I’m a **PhD student** at the **University of Queensland** 🎓, deeply immersed in the fascinating world of **neural networks** 🤖—a constantly evolving field that pushes me to think outside the box every single day!
+I'm a **PhD student** at the **University of Queensland** 🎓, deeply immersed in the fascinating world of **neural networks** 🤖—a constantly evolving field that pushes me to think outside the box every single day!
 
-My research focuses on **neural network verification (NNV)** 🧠💪. I’m passionate about ensuring these powerful models are robust, reliable, and dependable, regardless of the conditions or inputs they encounter.
+My research focuses on **neural network verification (NNV)** 🧠💪. I'm passionate about ensuring these powerful models are robust, reliable, and dependable, regardless of the conditions or inputs they encounter.
 
 Want to know more about me? Visit my website: [zhongkuima.github.io](https://zhongkuima.github.io/)
 
@@ -10,32 +10,72 @@ Want to know more about me? Visit my website: [zhongkuima.github.io](https://zho
 
 ---
 
-## Published Academic Work 📚
+## 📋 Table of Contents
 
-I’ve worked on several exciting projects related to neural networks and model security, some of which have been published in top-tier conferences:
+- [🎉 Latest Release: v2026.1.0](#-latest-release-v202610-january-2026)
+- [🛠️ Latest GitHub Repos](#️-latest-github-repos)
+- [📚 Published Academic Work](#-published-academic-work)
+- [⭐ Support This Work](#-support-this-work)
+- [📫 Connect With Me](#-connect-with-me)
 
-- **[WraAct](https://github.com/Trusted-System-Lab/WraAct)** - "[Convex Hull Approximation for Activation Functions]()" (OOPSLA'25)
-- **[AIM](https://github.com/Trusted-System-Lab/AIM)** - "[Model Modulation with Logits Redistribution](https://openreview.net/forum?id=lOSomJvrc5#discussion)" (WWW’25)
-- **[GRAB](https://github.com/Trusted-System-Lab/GRAB)** - "[Uncovering Gradient Inversion Risks in Practical Language Model Training](https://dl.acm.org/doi/abs/10.1145/3658644.3690292)" (CCS’24)
-- **[CoreLocker](https://github.com/CoreLocker/CoreLocker)** - "[CORELOCKER: Neuron-level Usage Control](https://www.computer.org/csdl/proceedings-article/sp/2024/313000a222/1WPcYMh3F1C)" (S&P’24)
-- **[WraLU](https://github.com/Trusted-System-Lab/WraLU)** - "[ReLU Hull Approximation](https://dl.acm.org/doi/10.1145/3632917)" (POPL’24)
-- **[PdD](https://github.com/Trusted-System-Lab/PdD)** - "[Formalizing Robustness Against Character-Level Perturbations for Neural Network Language Models](https://link.springer.com/chapter/10.1007/978-981-99-7584-6_7)" (ICFEM’23)
+---
 
-Thanks and to be honored with my friends and collaborators, including 
-[Xinguo Feng](https://github.com/shanefeng123), 
-[Zihan Wang](https://github.com/Anzhu-W)
-.
+## 🎉 Latest Release: v2026.1.0 (January 2026)
+
+I'm thrilled to announce the **stable release of v2026.1.0** for my neural network verification toolkit! All 6 core packages are now production-ready and actively maintained.
+
+| Package | Description | License | CI/CD |
+|---------|-------------|---------|-------|
+| [propdag](https://github.com/ZhongkuiMa/propdag) | Bound propagation framework | [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT) | [![CI](https://img.shields.io/github/actions/workflow/status/ZhongkuiMa/propdag/tests.yml?label=tests&logo=github)](https://github.com/ZhongkuiMa/propdag/actions) |
+| [wraact](https://github.com/ZhongkuiMa/wraact) | Activation hull approximation | [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT) | [![CI](https://img.shields.io/github/actions/workflow/status/ZhongkuiMa/wraact/actions/tests.yml?label=tests&logo=github)](https://github.com/ZhongkuiMa/wraact/actions) |
+| [shapeonnx](https://github.com/ZhongkuiMa/shapeonnx) | ONNX shape inference | [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT) | [![CI](https://img.shields.io/github/actions/workflow/status/ZhongkuiMa/shapeonnx/tests.yml?label=tests&logo=github)](https://github.com/ZhongkuiMa/shapeonnx/actions) |
+| [slimonnx](https://github.com/ZhongkuiMa/slimonnx) | ONNX optimization | [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT) | [![CI](https://img.shields.io/github/actions/workflow/status/ZhongkuiMa/slimonnx/tests.yml?label=tests&logo=github)](https://github.com/ZhongkuiMa/slimonnx/actions) |
+| [torchonnx](https://github.com/ZhongkuiMa/torchonnx) | ONNX to PyTorch conversion | [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT) | [![CI](https://img.shields.io/github/actions/workflow/status/ZhongkuiMa/torchonnx/tests.yml?label=tests&logo=github)](https://github.com/ZhongkuiMa/torchonnx/actions) |
+| [torchvnnlib](https://github.com/ZhongkuiMa/torchvnnlib) | VNN-LIB to PyTorch | [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT) | [![CI](https://img.shields.io/github/actions/workflow/status/ZhongkuiMa/torchvnnlib/tests.yml?label=tests&logo=github)](https://github.com/ZhongkuiMa/torchvnnlib/actions) |
+
+---
+
+## 🛠️ Latest GitHub Repos
+
+I'm currently working on some exciting tools that I'm thrilled to share with you:
+
+- [**wraact**](https://github.com/ZhongkuiMa/wraact): Approximate activation function hull with convex polytopes. Supports ReLU, Sigmoid, Tanh, GeLU, and more. 🛠
+- [**shapeonnx**](https://github.com/ZhongkuiMa/shapeonnx): Infer the shape of ONNX models. Simple yet powerful tool for understanding model dimensions. 📏
+- [**slimonnx**](https://github.com/ZhongkuiMa/slimonnx): Optimize and simplify ONNX models by removing redundant operations and resolving version issues. 🚀
+- [**torchonnx**](https://github.com/ZhongkuiMa/torchonnx): Convert ONNX models to PyTorch format (.pth for parameters, .py for structure). 🔄
+- [**torchvnnlib**](https://github.com/ZhongkuiMa/torchvnnlib): Convert VNN-LIB verification benchmarks (.vnnlib) to PyTorch tensors (.pth files). 🚀
+- [**propdag**](https://github.com/ZhongkuiMa/propdag): Bound propagation framework for neural network verification supporting DAG structures and both forward/backward propagation. 💪
+
+---
+
+## 📚 Published Academic Work
+
+I've worked on several exciting projects related to neural networks and model security, some of which have been published in top-tier conferences:
+
+- **[GHOST](https://github.com/Trusted-System-Lab/GHOST)** - "[Mitigating Gradient Inversion Risks in Language Models via Token Obfuscation]()" (AsiaCCS'26)
+- **[WraAct](https://github.com/Trusted-System-Lab/WraAct)** - "[Convex Hull Approximation for Activation Functions](https://dl.acm.org/doi/10.1145/3763086)" (OOPSLA'25)
+- **[AIM](https://github.com/Trusted-System-Lab/AIM)** - "[Model Modulation with Logits Redistribution](https://openreview.net/forum?id=lOSomJvrc5#discussion)" (WWW'25)
+- **[GRAB](https://github.com/Trusted-System-Lab/GRAB)** - "[Uncovering Gradient Inversion Risks in Practical Language Model Training](https://dl.acm.org/doi/abs/10.1145/3658644.3690292)" (CCS'24)
+- **[CoreLocker](https://github.com/CoreLocker/CoreLocker)** - "[CORELOCKER: Neuron-level Usage Control](https://www.computer.org/csdl/proceedings-article/sp/2024/313000a222/1WPcYMh3F1C)" (S&P'24)
+- **[WraLU](https://github.com/Trusted-System-Lab/WraLU)** - "[ReLU Hull Approximation](https://dl.acm.org/doi/10.1145/3632917)" (POPL'24)
+- **[PdD](https://github.com/Trusted-System-Lab/PdD)** - "[Formalizing Robustness Against Character-Level Perturbations for Neural Network Language Models](https://link.springer.com/chapter/10.1007/978-981-99-7584-6_7)" (ICFEM'23)
+
+Thanks and to be honored with my friends and collaborators, including
+[Xinguo Feng](https://github.com/shanefeng123),
+[Zihan Wang](https://github.com/Anzhu-W).
 You can find more works by their scholar profiles.
 
 ---
 
-## Latest GitHub Repos 🔧
+## ⭐ Support This Work
 
-I’m currently working on some exciting tools that I’m thrilled to share with you:
+If you find these tools useful, please consider:
 
-- [wraact](https://github.com/ZhongkuiMa/wraact): A tool to **approximate activation function hull** with **convex polytopes**. It supports various activation functions like ReLU, Sigmoid, Tanh, and GeLU, and can be easily integrated into existing neural network verification frameworks! 🛠 This is a regularly maintained and updated repo for the core algorithm in [WraLU](https://github.com/Trusted-System-Lab/WraLU) and [WraAct](https://github.com/Trusted-System-Lab/WraAct).
-- [shapeonnx](https://github.com/ZhongkuiMa/shapeonnx): A tool to **infer the shape of an ONNX model** when the official tool being down. It’s a simple yet powerful tool that helps you understand the dimensions of your model’s inputs and outputs! 📏
-- [slimonnx](https://github.com/ZhongkuiMa/slimonnx): A tool to **optimize and simplify your ONNX models** by removing redundant operations and resolving version issues. It makes ONNX files cleaner, more efficient, and ready for action! 🚀
-- [torchonnx](https://github.com/ZhongkuiMa/torchonnx): A tool for **converting ONNX models** to **PyTorch models** (.pth for parameters, .py for structure). It’s simple, lightweight, and designed for seamless model conversion 🔄.
-- [torchvnnlib](https://github.com/ZhongkuiMa/torchvnnlib): A tool to **convert VNN-LIB files** (.vnnlib) to **PyTorch tensors** (.pth files) for efficient neural network verification. Take full advantage of the PyTorch ecosystem! 🚀
-- [propdag](https://github.com/ZhongkuiMa/propdag): A **bound propagation framework** for **neural network verification**. It supports any **DAG (Directed Acyclic Graph)** structure, covering both **feedforward** and **backward** propagation patterns for verification. This tool allows researchers to focus on their algorithms without worrying about complex computation graphs! 💪
+- ⭐ **Star the repositories** on GitHub to show your support
+- 🐛 **Report issues** if you encounter any bugs or have feature requests
+- 💡 **Contribute improvements** through pull requests
+- 📢 **Share with colleagues** who might benefit from these tools
+
+Your feedback and contributions help make these tools better for everyone!
+
+---
