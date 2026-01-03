@@ -6,8 +6,6 @@ My research focuses on **neural network verification (NNV)** 🧠💪. I'm passi
 
 Want to know more about me? Visit my website: [zhongkuima.github.io](https://zhongkuima.github.io/)
 
-.. ![Zhongkui's GitHub stats](https://github-readme-stats.vercel.app/api?username=ZhongkuiMa&show_icons=true&hide_rank=true&theme=transparent)
-
 ---
 
 ## 🎉 Latest Releases
