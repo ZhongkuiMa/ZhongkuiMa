@@ -8,6 +8,14 @@ Want to know more about me? Visit my website: [zhongkuima.github.io](https://zho
 
 ---
 
+## 📋 My Developed Websites
+
+**[CFPMonitor](https://ZhongkuiMa.github.io/CFPMonitor/)** - A comparison website that tracks Call-for-Papers submission policies, review rules, and deadlines across 300+ computer science conferences. Filter by area, rank, and year. 📑
+
+**[ReviewerCalls](https://zhongkuima.github.io/ReviewerCalls/)** - A curated directory of reviewer and committee opportunities from prestigious CCF- and CORE-ranked conferences. Find self-nomination opportunities and stay updated on conference calls. Filter by ranking tier and browse opportunities all in one place! 📢
+
+---
+
 ## 🎉 Latest Releases
 
 **Key Features Across All Tools:**
@@ -28,12 +36,6 @@ I'm thrilled to announce the **stable release** for my neural network verificati
 | [slimonnx](https://github.com/ZhongkuiMa/slimonnx) | ONNX optimization | [![Tag](https://img.shields.io/github/tag/ZhongkuiMa/slimonnx?label=)](https://github.com/ZhongkuiMa/slimonnx/tags) | [![Stars](https://img.shields.io/github/stars/ZhongkuiMa/slimonnx?style=social)](https://github.com/ZhongkuiMa/slimonnx) | [![Size](https://img.shields.io/github/repo-size/ZhongkuiMa/slimonnx)](https://github.com/ZhongkuiMa/slimonnx) | [![Updated](https://img.shields.io/github/last-commit/ZhongkuiMa/slimonnx?label=)](https://github.com/ZhongkuiMa/slimonnx/commits) | [![Actions](https://github.com/ZhongkuiMa/slimonnx/actions/workflows/unit-tests.yml/badge.svg)](https://github.com/ZhongkuiMa/slimonnx/actions) |
 | [torchonnx](https://github.com/ZhongkuiMa/torchonnx) | ONNX to PyTorch conversion | [![Tag](https://img.shields.io/github/tag/ZhongkuiMa/torchonnx?label=)](https://github.com/ZhongkuiMa/torchonnx/tags) | [![Stars](https://img.shields.io/github/stars/ZhongkuiMa/torchonnx?style=social)](https://github.com/ZhongkuiMa/torchonnx) | [![Size](https://img.shields.io/github/repo-size/ZhongkuiMa/torchonnx)](https://github.com/ZhongkuiMa/torchonnx) | [![Updated](https://img.shields.io/github/last-commit/ZhongkuiMa/torchonnx?label=)](https://github.com/ZhongkuiMa/torchonnx/commits) | [![Actions](https://github.com/ZhongkuiMa/torchonnx/actions/workflows/unit-tests.yml/badge.svg)](https://github.com/ZhongkuiMa/torchonnx/actions) |
 | [torchvnnlib](https://github.com/ZhongkuiMa/torchvnnlib) | VNN-LIB to PyTorch | [![Tag](https://img.shields.io/github/tag/ZhongkuiMa/torchvnnlib?label=)](https://github.com/ZhongkuiMa/torchvnnlib/tags) | [![Stars](https://img.shields.io/github/stars/ZhongkuiMa/torchvnnlib?style=social)](https://github.com/ZhongkuiMa/torchvnnlib) | [![Size](https://img.shields.io/github/repo-size/ZhongkuiMa/torchvnnlib)](https://github.com/ZhongkuiMa/torchvnnlib) | [![Updated](https://img.shields.io/github/last-commit/ZhongkuiMa/torchvnnlib?label=)](https://github.com/ZhongkuiMa/torchvnnlib/commits) | [![Actions](https://github.com/ZhongkuiMa/torchvnnlib/actions/workflows/unit-tests.yml/badge.svg)](https://github.com/ZhongkuiMa/torchvnnlib/actions) |
-
----
-
-## 📋 Other Resources
-
-**[ReviewerCalls](https://zhongkuima.github.io/ReviewerCalls/)** - A curated directory of reviewer and committee opportunities from prestigious CCF- and CORE-ranked conferences. Find self-nomination opportunities and stay updated on conference calls. Filter by ranking tier and browse opportunities all in one place! 📢
 
 ---
 
