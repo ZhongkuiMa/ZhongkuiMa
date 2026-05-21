@@ -10,8 +10,6 @@ Want to know more about me? Visit my website: [zhongkuima.github.io](https://zho
 
 ## 📋 My Developed Websites
 
-**[CFPMonitor](https://ZhongkuiMa.github.io/CFPMonitor/)** - A comparison website that tracks Call-for-Papers submission policies, review rules, and deadlines across 300+ computer science conferences. Filter by area, rank, and year. 📑
-
 **[ReviewerCalls](https://zhongkuima.github.io/ReviewerCalls/)** - A curated directory of reviewer and committee opportunities from prestigious CCF- and CORE-ranked conferences. Find self-nomination opportunities and stay updated on conference calls. Filter by ranking tier and browse opportunities all in one place! 📢
 
 ---
