@@ -8,12 +8,6 @@ Want to know more about me? Visit my website: [zhongkuima.github.io](https://zho
 
 ---
 
-## 📋 My Developed Websites
-
-**[ReviewerCalls](https://zhongkuima.github.io/ReviewerCalls/)** - A curated directory of reviewer and committee opportunities from prestigious CCF- and CORE-ranked conferences. Find self-nomination opportunities and stay updated on conference calls. Filter by ranking tier and browse opportunities all in one place! 📢
-
----
-
 ## 🎉 Latest Releases
 
 **Key Features Across All Tools:**
@@ -22,13 +16,11 @@ Want to know more about me? Visit my website: [zhongkuima.github.io](https://zho
 - [**slimonnx**](https://github.com/ZhongkuiMa/slimonnx): Optimize and simplify ONNX models by removing redundant operations and resolving version issues. 🚀
 - [**torchonnx**](https://github.com/ZhongkuiMa/torchonnx): Convert ONNX models to PyTorch format (.pth for parameters, .py for structure). 🔄
 - [**torchvnnlib**](https://github.com/ZhongkuiMa/torchvnnlib): Convert VNN-LIB verification benchmarks (.vnnlib) to PyTorch tensors (.pth files). 🚀
-- [**propdag**](https://github.com/ZhongkuiMa/propdag): Bound propagation framework for neural network verification supporting DAG structures and both forward/backward propagation. 💪
 
 I'm thrilled to announce the **stable release** for my neural network verification toolkit! All 6 core packages are now production-ready and actively maintained.
 
 | Package | Description | Version | Stars | Size | Last Updated | Status |
 |---------|-------------|---------|-------|------|--------------|--------|
-| [propdag](https://github.com/ZhongkuiMa/propdag) | Bound propagation framework | [![Tag](https://img.shields.io/github/tag/ZhongkuiMa/propdag?label=)](https://github.com/ZhongkuiMa/propdag/tags) | [![Stars](https://img.shields.io/github/stars/ZhongkuiMa/propdag?style=social)](https://github.com/ZhongkuiMa/propdag) | [![Size](https://img.shields.io/github/repo-size/ZhongkuiMa/propdag)](https://github.com/ZhongkuiMa/propdag) | [![Updated](https://img.shields.io/github/last-commit/ZhongkuiMa/propdag?label=)](https://github.com/ZhongkuiMa/propdag/commits) | [![Actions](https://github.com/ZhongkuiMa/propdag/actions/workflows/unit-tests.yml/badge.svg)](https://github.com/ZhongkuiMa/propdag/actions) |
 | [wraact](https://github.com/ZhongkuiMa/wraact) | Activation hull approximation | [![Tag](https://img.shields.io/github/tag/ZhongkuiMa/wraact?label=)](https://github.com/ZhongkuiMa/wraact/tags) | [![Stars](https://img.shields.io/github/stars/ZhongkuiMa/wraact?style=social)](https://github.com/ZhongkuiMa/wraact) | [![Size](https://img.shields.io/github/repo-size/ZhongkuiMa/wraact)](https://github.com/ZhongkuiMa/wraact) | [![Updated](https://img.shields.io/github/last-commit/ZhongkuiMa/wraact?label=)](https://github.com/ZhongkuiMa/wraact/commits) | [![Actions](https://github.com/ZhongkuiMa/wraact/actions/workflows/unit-tests.yml/badge.svg)](https://github.com/ZhongkuiMa/wraact/actions) |
 | [shapeonnx](https://github.com/ZhongkuiMa/shapeonnx) | ONNX shape inference | [![Tag](https://img.shields.io/github/tag/ZhongkuiMa/shapeonnx?label=)](https://github.com/ZhongkuiMa/shapeonnx/tags) | [![Stars](https://img.shields.io/github/stars/ZhongkuiMa/shapeonnx?style=social)](https://github.com/ZhongkuiMa/shapeonnx) | [![Size](https://img.shields.io/github/repo-size/ZhongkuiMa/shapeonnx)](https://github.com/ZhongkuiMa/shapeonnx) | [![Updated](https://img.shields.io/github/last-commit/ZhongkuiMa/shapeonnx?label=)](https://github.com/ZhongkuiMa/shapeonnx/commits) | [![Actions](https://github.com/ZhongkuiMa/shapeonnx/actions/workflows/unit-tests.yml/badge.svg)](https://github.com/ZhongkuiMa/shapeonnx/actions) |
 | [slimonnx](https://github.com/ZhongkuiMa/slimonnx) | ONNX optimization | [![Tag](https://img.shields.io/github/tag/ZhongkuiMa/slimonnx?label=)](https://github.com/ZhongkuiMa/slimonnx/tags) | [![Stars](https://img.shields.io/github/stars/ZhongkuiMa/slimonnx?style=social)](https://github.com/ZhongkuiMa/slimonnx) | [![Size](https://img.shields.io/github/repo-size/ZhongkuiMa/slimonnx)](https://github.com/ZhongkuiMa/slimonnx) | [![Updated](https://img.shields.io/github/last-commit/ZhongkuiMa/slimonnx?label=)](https://github.com/ZhongkuiMa/slimonnx/commits) | [![Actions](https://github.com/ZhongkuiMa/slimonnx/actions/workflows/unit-tests.yml/badge.svg)](https://github.com/ZhongkuiMa/slimonnx/actions) |
@@ -48,11 +40,6 @@ I've worked on several exciting projects related to neural networks and model se
 - **[CoreLocker](https://github.com/CoreLocker/CoreLocker)** - "[CORELOCKER: Neuron-level Usage Control](https://www.computer.org/csdl/proceedings-article/sp/2024/313000a222/1WPcYMh3F1C)" (S&P'24)
 - **[WraLU](https://github.com/Trusted-System-Lab/WraLU)** - "[ReLU Hull Approximation](https://dl.acm.org/doi/10.1145/3632917)" (POPL'24)
 - **[PdD](https://github.com/Trusted-System-Lab/PdD)** - "[Formalizing Robustness Against Character-Level Perturbations for Neural Network Language Models](https://link.springer.com/chapter/10.1007/978-981-99-7584-6_7)" (ICFEM'23)
-
-Thanks and to be honored with my friends and collaborators, including
-[Xinguo Feng](https://github.com/shanefeng123),
-[Zihan Wang](https://github.com/Anzhu-W).
-You can find more works by their scholar profiles.
 
 ---
 
