@@ -33,14 +33,14 @@ I'm thrilled to announce the **stable release** for my neural network verificati
 
 I've worked on several exciting projects related to neural networks and model security, some of which have been published in top-tier conferences:
 
-- **[Catch-Only-One](https://arxiv.org/abs/2510.10982)** - "Catch-Only-One: Non-Transferable Examples for Model-Specific Authorization" (NeurIPS'26, Oral Presentation, 0.36% acceptance)
-- **[Catch-Only-One](https://arxiv.org/abs/2510.10982)** - "Non-Transferable Examples" (ECCV'26 LifeGenIP Workshop) 🏆 **Best Paper Runner-Up**
+- **Catch-Only-One** - "[Catch-Only-One: Non-Transferable Examples for Model-Specific Authorization](https://arxiv.org/abs/2510.10982)" (NeurIPS'26, Oral Presentation, 0.36% acceptance)
+- **Catch-Only-One** - "[Non-Transferable Examples](https://arxiv.org/abs/2510.10982)" (ECCV'26 LifeGenIP Workshop) 🏆 **Best Paper Runner-Up**
 - **[AdaLoc](https://github.com/MLresearchAI/ADALOC)** - "[Re-Key-Free, Risky-Free: Adaptable Model Usage Control](https://doi.org/10.1109/EuroSP68448.2026.00051)" (EuroS&P'26)
 - **[GHOST](https://github.com/Trusted-System-Lab/GHOST)** - "[Mitigating Gradient Inversion Risks in Language Models via Token Obfuscation](https://doi.org/10.1145/3779208.3785389)" (AsiaCCS'26)
 - **[WraAct](https://github.com/Trusted-System-Lab/WraAct)** - "[Convex Hull Approximation for Activation Functions](https://dl.acm.org/doi/10.1145/3763086)" (OOPSLA'25)
 - **[AIM](https://github.com/Trusted-System-Lab/AIM)** - "[AI Model Modulation with Logits Redistribution](https://doi.org/10.1145/3696410.3714737)" (WWW'25)
 - **[GRAB](https://github.com/Trusted-System-Lab/GRAB)** - "[Uncovering Gradient Inversion Risks in Practical Language Model Training](https://dl.acm.org/doi/abs/10.1145/3658644.3690292)" (CCS'24)
-- **[CoreLocker](https://github.com/CoreLocker/CoreLocker)** - "[CORELOCKER: Neuron-level Usage Control](https://www.computer.org/csdl/proceedings-article/sp/2024/313000a222/1WPcYMh3F1C)" (S&P'24)
+- **[CoreLocker](https://github.com/CoreLocker/CoreLocker)** - "[CORELOCKER: Neuron-level Usage Control](https://doi.org/10.1109/SP54263.2024.00233)" (S&P'24)
 - **[WraLU](https://github.com/Trusted-System-Lab/WraLU)** - "[ReLU Hull Approximation](https://dl.acm.org/doi/10.1145/3632917)" (POPL'24)
 - **[PdD](https://github.com/Trusted-System-Lab/PdD)** - "[Formalizing Robustness Against Character-Level Perturbations for Neural Network Language Models](https://link.springer.com/chapter/10.1007/978-981-99-7584-6_7)" (ICFEM'23)
 - **ICFEM Doctoral Symposium** - "[Verifying Neural Networks by Approximating Convex Hulls](https://doi.org/10.1007/978-981-99-7584-6_17)" (ICFEM'23)
