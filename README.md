@@ -1,8 +1,10 @@
 # Hey there! I'm Zhongkui Ma (马中奎)~ 👋
 
-I'm a **PhD student** at the **University of Queensland** 🎓, deeply immersed in the fascinating world of **neural networks** 🤖—a constantly evolving field that pushes me to think outside the box every single day!
+I'm a **PhD Candidate** at **The University of Queensland** 🎓, deeply immersed in the fascinating world of **neural networks** 🤖—a constantly evolving field that pushes me to think outside the box every single day!
 
 My research focuses on **neural network verification (NNV)** 🧠💪. I'm passionate about ensuring these powerful models are robust, reliable, and dependable, regardless of the conditions or inputs they encounter.
+
+Alongside it, I work with collaborators on model usage control and on privacy in learning and retrieval — the [research page](https://zhongkuima.github.io/research) explains how the three fit together.
 
 Want to know more about me? Visit my website: [zhongkuima.github.io](https://zhongkuima.github.io/)
 
@@ -33,6 +35,7 @@ I'm thrilled to announce the **stable release** for my neural network verificati
 
 I've worked on several exciting projects related to neural networks and model security, some of which have been published in top-tier conferences:
 
+- **[SHAQ](https://github.com/shanefeng123/SHAQ)** - "[Shadow Queries for Private Retrieval in Vector Databases](https://arxiv.org/abs/2609.04767)" (arXiv preprint)
 - **Catch-Only-One** - "[Catch-Only-One: Non-Transferable Examples for Model-Specific Authorization](https://arxiv.org/abs/2510.10982)" (NeurIPS'26, Oral Presentation, 0.36% acceptance)
 - **Catch-Only-One** - "[Non-Transferable Examples](https://arxiv.org/abs/2510.10982)" (ECCV'26 LifeGenIP Workshop) 🏆 **Best Paper Runner-Up**
 - **[AdaLoc](https://github.com/MLresearchAI/ADALOC)** - "[Re-Key-Free, Risky-Free: Adaptable Model Usage Control](https://doi.org/10.1109/EuroSP68448.2026.00051)" (EuroS&P'26)
