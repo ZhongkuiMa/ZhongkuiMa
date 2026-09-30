@@ -1,61 +1,51 @@
-# Hey there! I'm Zhongkui Ma (马中奎)~ 👋
+# Zhongkui Ma (马中奎)
 
-I'm a **PhD student** at the **University of Queensland** 🎓, deeply immersed in the fascinating world of **neural networks** 🤖—a constantly evolving field that pushes me to think outside the box every single day!
+I'm a **PhD Candidate at The University of Queensland** 🎓, working on the **verification, security and privacy of AI systems**.
 
-My research focuses on **neural network verification (NNV)** 🧠💪. I'm passionate about ensuring these powerful models are robust, reliable, and dependable, regardless of the conditions or inputs they encounter.
+Neural network verification and convex approximation are the main themes of my PhD. Alongside them I work with collaborators on model and data control, and on privacy in learning and retrieval. Those are different questions answered with different kinds of evidence, so I keep them apart rather than presenting one method applied three times.
 
-Want to know more about me? Visit my website: [zhongkuima.github.io](https://zhongkuima.github.io/)
-
----
-
-## 🎉 Latest Releases
-
-**Key Features Across All Tools:**
-- [**wraact**](https://github.com/ZhongkuiMa/wraact): Approximate activation function hull with convex polytopes. Supports ReLU, Sigmoid, Tanh, GeLU, and more. 🛠
-- [**shapeonnx**](https://github.com/ZhongkuiMa/shapeonnx): Infer the shape of ONNX models. Simple yet powerful tool for understanding model dimensions. 📏
-- [**slimonnx**](https://github.com/ZhongkuiMa/slimonnx): Optimize and simplify ONNX models by removing redundant operations and resolving version issues. 🚀
-- [**torchonnx**](https://github.com/ZhongkuiMa/torchonnx): Convert ONNX models to PyTorch format (.pth for parameters, .py for structure). 🔄
-- [**torchvnnlib**](https://github.com/ZhongkuiMa/torchvnnlib): Convert VNN-LIB verification benchmarks (.vnnlib) to PyTorch tensors (.pth files). 🚀
-
-I'm thrilled to announce the **stable release** for my neural network verification toolkit! All 5 core packages are now production-ready and actively maintained.
-
-| Package | Description | Version | Stars | Size | Last Updated | Status |
-|---------|-------------|---------|-------|------|--------------|--------|
-| [wraact](https://github.com/ZhongkuiMa/wraact) | Activation hull approximation | [![Tag](https://img.shields.io/github/tag/ZhongkuiMa/wraact?label=)](https://github.com/ZhongkuiMa/wraact/tags) | [![Stars](https://img.shields.io/github/stars/ZhongkuiMa/wraact?style=social)](https://github.com/ZhongkuiMa/wraact) | [![Size](https://img.shields.io/github/repo-size/ZhongkuiMa/wraact)](https://github.com/ZhongkuiMa/wraact) | [![Updated](https://img.shields.io/github/last-commit/ZhongkuiMa/wraact?label=)](https://github.com/ZhongkuiMa/wraact/commits) | [![Actions](https://github.com/ZhongkuiMa/wraact/actions/workflows/unit-tests.yml/badge.svg)](https://github.com/ZhongkuiMa/wraact/actions) |
-| [shapeonnx](https://github.com/ZhongkuiMa/shapeonnx) | ONNX shape inference | [![Tag](https://img.shields.io/github/tag/ZhongkuiMa/shapeonnx?label=)](https://github.com/ZhongkuiMa/shapeonnx/tags) | [![Stars](https://img.shields.io/github/stars/ZhongkuiMa/shapeonnx?style=social)](https://github.com/ZhongkuiMa/shapeonnx) | [![Size](https://img.shields.io/github/repo-size/ZhongkuiMa/shapeonnx)](https://github.com/ZhongkuiMa/shapeonnx) | [![Updated](https://img.shields.io/github/last-commit/ZhongkuiMa/shapeonnx?label=)](https://github.com/ZhongkuiMa/shapeonnx/commits) | [![Actions](https://github.com/ZhongkuiMa/shapeonnx/actions/workflows/unit-tests.yml/badge.svg)](https://github.com/ZhongkuiMa/shapeonnx/actions) |
-| [slimonnx](https://github.com/ZhongkuiMa/slimonnx) | ONNX optimization | [![Tag](https://img.shields.io/github/tag/ZhongkuiMa/slimonnx?label=)](https://github.com/ZhongkuiMa/slimonnx/tags) | [![Stars](https://img.shields.io/github/stars/ZhongkuiMa/slimonnx?style=social)](https://github.com/ZhongkuiMa/slimonnx) | [![Size](https://img.shields.io/github/repo-size/ZhongkuiMa/slimonnx)](https://github.com/ZhongkuiMa/slimonnx) | [![Updated](https://img.shields.io/github/last-commit/ZhongkuiMa/slimonnx?label=)](https://github.com/ZhongkuiMa/slimonnx/commits) | [![Actions](https://github.com/ZhongkuiMa/slimonnx/actions/workflows/unit-tests.yml/badge.svg)](https://github.com/ZhongkuiMa/slimonnx/actions) |
-| [torchonnx](https://github.com/ZhongkuiMa/torchonnx) | ONNX to PyTorch conversion | [![Tag](https://img.shields.io/github/tag/ZhongkuiMa/torchonnx?label=)](https://github.com/ZhongkuiMa/torchonnx/tags) | [![Stars](https://img.shields.io/github/stars/ZhongkuiMa/torchonnx?style=social)](https://github.com/ZhongkuiMa/torchonnx) | [![Size](https://img.shields.io/github/repo-size/ZhongkuiMa/torchonnx)](https://github.com/ZhongkuiMa/torchonnx) | [![Updated](https://img.shields.io/github/last-commit/ZhongkuiMa/torchonnx?label=)](https://github.com/ZhongkuiMa/torchonnx/commits) | [![Actions](https://github.com/ZhongkuiMa/torchonnx/actions/workflows/unit-tests.yml/badge.svg)](https://github.com/ZhongkuiMa/torchonnx/actions) |
-| [torchvnnlib](https://github.com/ZhongkuiMa/torchvnnlib) | VNN-LIB to PyTorch | [![Tag](https://img.shields.io/github/tag/ZhongkuiMa/torchvnnlib?label=)](https://github.com/ZhongkuiMa/torchvnnlib/tags) | [![Stars](https://img.shields.io/github/stars/ZhongkuiMa/torchvnnlib?style=social)](https://github.com/ZhongkuiMa/torchvnnlib) | [![Size](https://img.shields.io/github/repo-size/ZhongkuiMa/torchvnnlib)](https://github.com/ZhongkuiMa/torchvnnlib) | [![Updated](https://img.shields.io/github/last-commit/ZhongkuiMa/torchvnnlib?label=)](https://github.com/ZhongkuiMa/torchvnnlib/commits) | [![Actions](https://github.com/ZhongkuiMa/torchvnnlib/actions/workflows/unit-tests.yml/badge.svg)](https://github.com/ZhongkuiMa/torchvnnlib/actions) |
+[Website](https://zhongkuima.github.io/) · [Research](https://zhongkuima.github.io/research) · [Publications](https://zhongkuima.github.io/publications) · [Writing](https://zhongkuima.github.io/writing)
 
 ---
 
-## 📚 Published Academic Work
+## Research and shared artifacts
 
-I've worked on several exciting projects related to neural networks and model security, some of which have been published in top-tier conferences:
+Every work below is coauthored, and the repositories belong to the collaborators and labs I work with rather than to me. Each project page carries the full author list, the publication record and the paper link; the repositories are the originals.
 
-- **Catch-Only-One** - "[Catch-Only-One: Non-Transferable Examples for Model-Specific Authorization](https://arxiv.org/abs/2510.10982)" (NeurIPS'26, Oral Presentation, 0.36% acceptance)
-- **Catch-Only-One** - "[Non-Transferable Examples](https://arxiv.org/abs/2510.10982)" (ECCV'26 LifeGenIP Workshop) 🏆 **Best Paper Runner-Up**
-- **[AdaLoc](https://github.com/MLresearchAI/ADALOC)** - "[Re-Key-Free, Risky-Free: Adaptable Model Usage Control](https://doi.org/10.1109/EuroSP68448.2026.00051)" (EuroS&P'26)
-- **[GHOST](https://github.com/Trusted-System-Lab/GHOST)** - "[Mitigating Gradient Inversion Risks in Language Models via Token Obfuscation](https://doi.org/10.1145/3779208.3785389)" (AsiaCCS'26)
-- **[WraAct](https://github.com/Trusted-System-Lab/WraAct)** - "[Convex Hull Approximation for Activation Functions](https://dl.acm.org/doi/10.1145/3763086)" (OOPSLA'25)
-- **[AIM](https://github.com/Trusted-System-Lab/AIM)** - "[AI Model Modulation with Logits Redistribution](https://doi.org/10.1145/3696410.3714737)" (WWW'25)
-- **[GRAB](https://github.com/Trusted-System-Lab/GRAB)** - "[Uncovering Gradient Inversion Risks in Practical Language Model Training](https://dl.acm.org/doi/abs/10.1145/3658644.3690292)" (CCS'24)
-- **[CoreLocker](https://github.com/CoreLocker/CoreLocker)** - "[CORELOCKER: Neuron-level Usage Control](https://doi.org/10.1109/SP54263.2024.00233)" (S&P'24)
-- **[WraLU](https://github.com/Trusted-System-Lab/WraLU)** - "[ReLU Hull Approximation](https://dl.acm.org/doi/10.1145/3632917)" (POPL'24)
-- **[PdD](https://github.com/Trusted-System-Lab/PdD)** - "[Formalizing Robustness Against Character-Level Perturbations for Neural Network Language Models](https://link.springer.com/chapter/10.1007/978-981-99-7584-6_7)" (ICFEM'23)
-- **ICFEM Doctoral Symposium** - "[Verifying Neural Networks by Approximating Convex Hulls](https://doi.org/10.1007/978-981-99-7584-6_17)" (ICFEM'23)
+| Line | Work | Code |
+|---|---|---|
+| **Formal Verification & Robustness** — my PhD | [WraLU](https://zhongkuima.github.io/projects/wralu) · [WraAct](https://zhongkuima.github.io/projects/wraact) · [PdD](https://zhongkuima.github.io/projects/pdd) | [WraLU](https://github.com/Trusted-System-Lab/WraLU) · [WraAct](https://github.com/Trusted-System-Lab/WraAct) · [PdD](https://github.com/Trusted-System-Lab/PdD) |
+| **Model & Data Control** — collaborative | [CoreLocker](https://zhongkuima.github.io/projects/corelocker) · [AdaLoc](https://zhongkuima.github.io/projects/adaloc) · [AIM](https://zhongkuima.github.io/projects/aim) · [Catch-Only-One](https://zhongkuima.github.io/projects/catch-only-one) | [CoreLocker](https://github.com/CoreLocker/CoreLocker) · [AdaLoc](https://github.com/MLresearchAI/ADALOC) · [AIM](https://github.com/Trusted-System-Lab/AIM) · no public implementation |
+| **Privacy in Learning & Retrieval** — collaborative | [GRAB](https://zhongkuima.github.io/projects/grab) · [GHOST](https://zhongkuima.github.io/projects/ghost) · [SHAQ](https://zhongkuima.github.io/projects/shaq) (preprint) | [GRAB](https://github.com/Trusted-System-Lab/GRAB) · [GHOST](https://github.com/Trusted-System-Lab/GHOST) · [SHAQ](https://github.com/shanefeng123/SHAQ) |
+
+Earlier in the PhD I also wrote [*Verifying Neural Networks by Approximating Convex Hulls*](https://doi.org/10.1007/978-981-99-7584-6_17) (ICFEM'23 Doctoral Symposium) as sole author.
+
+🏆 The workshop version of Catch-Only-One, *Non-Transferable Examples* ([ECCV'26 LifeGenIP Workshop](https://lifegenip.cc/)), received a **Best Paper Award Runner-Up**.
+
+The [complete publication list](https://zhongkuima.github.io/publications) also carries the workshop versions and my undergraduate work.
+
+---
+
+## Reusable tools
+
+These are separate from the paper artifacts above, and they run on their own rather than as stages of one pipeline. Note the name collision: `wraact` is my personal Python library, `WraAct` is the OOPSLA'25 artifact.
+
+| Package | Purpose |
+|---|---|
+| [wraact](https://github.com/ZhongkuiMa/wraact) | Activation-hull approximation |
+| [shapeonnx](https://github.com/ZhongkuiMa/shapeonnx) | ONNX tensor-shape inference |
+| [slimonnx](https://github.com/ZhongkuiMa/slimonnx) | ONNX model simplification |
+| [torchonnx](https://github.com/ZhongkuiMa/torchonnx) | ONNX-to-PyTorch conversion |
+| [torchvnnlib](https://github.com/ZhongkuiMa/torchvnnlib) | VNN-LIB specification conversion |
+
+Installation, supported models and reproduction instructions are in each repository's own documentation.
 
 ---
 
-## ⭐ Support This Work
+## Tutorial
 
-If you find these tools useful, please consider:
-
-- ⭐ **Star the repositories** on GitHub to show your support
-- 🐛 **Report issues** if you encounter any bugs or have feature requests
-- 💡 **Contribute improvements** through pull requests
-- 📢 **Share with colleagues** who might benefit from these tools
-
-Your feedback and contributions help make these tools better for everyone!
+My [NNV tutorial](https://zhongkuima.github.io/guides) works through verification problems, bounds, relaxations and practical specifications. It is a series of study notes under revision, not a substitute for the assumptions and results of the papers it cites.
 
 ---
+
+For a bug or a feature request, please use the relevant repository's tracker rather than opening an issue here. And if one of these tools has been useful to you, a star on its repository tells me more than a message does.
